@@ -27,3 +27,41 @@
 16. optimize share interface
 17. change the 1st mission name from `Quick Start Tutorial` to `Preparation`
 18. Change strum time from upbeat to downbeat in `Doraemon`
+
+## 1.5.4
+
+1. add “repeat password” text area, optimize login logic
+2. fix translation typo
+3. fix animation effects
+4. optimize sentence layout
+5. add notification board
+6. update survey position and update survey
+7. optimize video loading speed
+8. update song covers
+9. deploy 40 more songs to song library
+10. adjust appearing time of notifications
+
+## 1.5.3
+
+1. add feedback & survey features
+2. optimize chords recognition sensitivity
+3. solve crash problems
+
+## 1.4.9
+
+1. fix the bug video playing with game proceeding at the same time
+2. fix some unexpected fingering method on LED fretboard
+3. optimize the disunity of gaming and rhythm
+4. compress app size
+5. fix some mistakes in videos
+
+## 1.4.6
+
+1. fix video playing at backend after clicking `back`
+2. fix crash problem when tuning strings
+3. add video controller
+4. fix unable to over the process bug
+5. fix “passed but prompt failed” bug
+6. remake all video tutorials
+7. add combo effect while getting 10 times combo
+8. optimize bluetooth connection logic
