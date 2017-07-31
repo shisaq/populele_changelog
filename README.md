@@ -1,6 +1,6 @@
 # Populele Change Log
 
-## 1.5.5
+## 1.5.5, 2017-07-31
 
 1. fix loading lag while in 98%-100%
 2. fix video crash in the first mission
@@ -28,7 +28,7 @@
 17. change the 1st mission name from `Quick Start Tutorial` to `Preparation`
 18. Change strum time from upbeat to downbeat in `Doraemon`
 
-## 1.5.4
+## 1.5.4, 2017-07-23
 
 1. add “repeat password” text area, optimize login logic
 2. fix translation typo
@@ -41,13 +41,13 @@
 9. deploy 40 more songs to song library
 10. adjust appearing time of notifications
 
-## 1.5.3
+## 1.5.3, 2017-07-13
 
 1. add feedback & survey features
 2. optimize chords recognition sensitivity
 3. solve crash problems
 
-## 1.4.9
+## 1.4.9, 2017-06-30
 
 1. fix the bug video playing with game proceeding at the same time
 2. fix some unexpected fingering method on LED fretboard
@@ -55,7 +55,7 @@
 4. compress app size
 5. fix some mistakes in videos
 
-## 1.4.6
+## 1.4.6, 2017-06-26
 
 1. fix video playing at backend after clicking `back`
 2. fix crash problem when tuning strings
