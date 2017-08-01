@@ -8,7 +8,6 @@
 4. fix known song library crash
 5. simplify permission list, remove below:
     * read your contacts
-    * read phone status and identity
     * receive text messages
     * read your text messages
     * control vibration
