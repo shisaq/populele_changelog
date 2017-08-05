@@ -1,5 +1,16 @@
 # Populele Change Log
 
+## 1.5.5(2), 2017-8-3
+
+1. optimize log in progress
+2. optimzie interface layout
+3. optimize section names
+4. fix translation typos
+5. fix tuning logic
+6. optimize email section
+7. fix video playing lag
+8. re-orgnize tip info
+
 ## 1.5.5, 2017-07-31
 
 1. fix loading lag while in 98%-100%
